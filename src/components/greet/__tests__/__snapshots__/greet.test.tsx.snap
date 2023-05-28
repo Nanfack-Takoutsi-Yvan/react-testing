@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Greet snapshot should match snapshot with default hello world 1`] = `
+<div>
+  <div>
+    Hello 
+  </div>
+</div>
+`;
+
+exports[`Greet snapshot should match snapshot with props name 1`] = `
+<div>
+  <div>
+    Hello 
+    Rudeus
+  </div>
+</div>
+`;
